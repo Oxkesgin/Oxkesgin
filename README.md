@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # KafnTeam 
 
-I’m working on blockchain infrastructure and testnets.  
-Validator, node runner, researcher.
+A dedicated team focused on decentralized infrastructure, testnet exploration, and validator optimization.
+Committed to uptime, performance, and secure operations across emerging blockchain networks.
 
 ## 🛠️ Validator Setup Experience 
 - Cosmos, Polkadot, Solana testnets
